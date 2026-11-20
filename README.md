@@ -1,35 +1,37 @@
 # Mi receta
 
-Nombre del plato: pancakes con frutas
+**Nombre del plato:** Pancakes con frutas
 
-# Ingredientes
+## 🛒 Ingredientes
 
 1. 1 taza de harina
 2. 2 huevos
 3. 1/2 taza de leche
 4. 1 cucharadita de sal
-5. 2 cucharadas de mantequilla
+5. 2 cucharadas de mantequilla (derretida para la mezcla o sartén)
 6. 1 cucharadita de polvo de hornear
 7. 1/4 taza de azúcar
 8. 1 cucharadita de esencia de vainilla
-9. 1/2 taza de frutas 
+9. 1/2 taza de frutas frescas (fresas, banano, arándanos o las de tu preferencia)
 
-## tiempo de preparación
-Tiempo de preparación: 15 minutos
+## ⏱️ Tiempo de preparación
 
-## pasos de preparación
-1. En una taza grande, mezclar la harina, el polvo de hornear, la sal y el azúcar.
+* **Tiempo de preparación:** 15 minutos
+
+## 👨‍🍳 Pasos de preparación
+
+1. En un recipiente grande, mezclar la harina, el polvo de hornear, la sal y el azúcar.
 2. En otro recipiente, batir los huevos y agregar la leche y la esencia de vainilla.
-3. Agregar la mezcla de ingredientes secos a los ingredientes húmedos y mezclar hasta obtener una masa homogénea.
-4. Calentar en una sarten la mantequila a fuego medio
-5. Cuando la matequilla este derretida por completo agregar un poco de la mezcla para cocinar haste que un lado este listo y luego voltear para cocinar el otro lado.
-6. Servir los pancakes y agregarles las frutas encima
+3. Incorporar la mezcla de ingredientes secos a los ingredientes húmedos y revolver suavemente hasta obtener una masa homogénea.
+4. Calentar una sartén a fuego medio con un poco de mantequilla.
+5. Cuando la mantequilla esté derretida por completo, verter una porción de la mezcla, cocinar hasta que aparezcan burbujas o el borde esté listo y voltear para dorar el otro lado.
+6. Servir los pancakes calientes y coronar con las frutas frescas por encima.
 
-# Consejo para quien quiera hacer la receta
-Para que los pancakes queden más esponjosos, se puede agregar un poco de bicarbonato de sodio a la mezcla. Además, es importante no sobre mezclar la masa para evitar que se vuelva densa.
+## 💡 Consejos
 
-# otro consejo
+* Para que los pancakes queden aún más esponjosos, puedes agregar una pizca de bicarbonato de sodio a los ingredientes secos y evitar sobrebatir la masa para que no quede densa.
+* Si buscas un toque extra de sabor o dulzura, puedes acompañarlos con un poco de miel, jarabe de maple o canela espolvoreada al servir.
 
-# # Por que me gusta la receta
-Me gusta esta receta porque es fácil de hacer y deliciosa. Los pancakes son suaves y esponjosos, y al agregar frutas frescas encima, se obtiene un sabor dulce y refrescante. 
+## ❤️ Por qué me gusta esta receta
 
+Me gusta esta receta porque es rápida, sencilla y muy rendidora. Los pancakes quedan suaves y esponjosos, y las frutas frescas aportan un contraste dulce y refrescante ideal para desayunar o compartir.
